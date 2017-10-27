@@ -1,0 +1,23 @@
+Ransomware prevents you from accessing files from an
+infected computer until you pay the ransom. 
+For the past few months, users especially in Russia and Ukraine have
+experienced several strains of ransomware, the latest one being BadRabbit which
+targeted consumers and businesses. BadRabbit appears to be automatically downloaded when users
+visit legitimate websites, but as it doesn't use any exploits as with previous
+ransomware, it relies on the user to run the program manually. It poses as an
+Adobe Flash installer. When the program is run, it displays a similar message
+to other ransomware and tells users to send just under $300 to a Bitcoin
+account.  “It was only a matter of time before someone took the ideas
+from WannaCry and NotPetya and ran with them for another go at unsuspecting
+victims. It appears this latest variation, the so-called Bad Rabbit ransomware,
+is being distributed via a fake Adobe Flash Player installer file,” says Chester
+Wisniewski, Principal Research Scientist at Sophos.  “Initial reports are primarily from Eastern Europe,
+especially focused on Russia and Ukraine,” he added.  What makes this malware more dangerous than your typical
+ransomware being distributed in a similar manner is its ability to spread
+across an organization as a worm and not just through email attachments or
+vulnerable web plugins. It is rumored to contain the same password stealing and
+spreading mechanism as NotPetya, allowing it to traverse an enterprise and
+cripple it in no time.  SophosLabs are working to confirm these details. At the
+moment their Anti-Virus customers will detect this variation as
+Troj/Ransom-ERK.  In addition, IT experts at the company recommend the
+following:          
