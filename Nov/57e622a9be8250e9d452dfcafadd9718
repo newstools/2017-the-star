@@ -1,0 +1,71 @@
+Over the past few years, most organisations
+have begun to incorporate cloud into their operations, gathering insights from
+large amounts of data that help them achieve key business outcomes. In fact, cloud traffic is expected to
+increase almost four times by 2020. Simultaneously, the Internet of
+Things (IoT) market is expected to
+reach $267 billion in the same period.  This combination results in unprecedented
+volumes of data, which can easily become unmanageable. While cloud computing is
+a major enabler particularly for industrial transformation, there is an increasing
+need to turn the massive amounts of machine-based data into
+actionable intelligence closer to the source. That’s
+where edge computing comes in.  As more computing, storage and analytical
+capacity is bundled into smaller devices that sit closer to the data, edge
+computing involves
+pushing computer applications, data and services away from the centralised
+cloud to the logical extremes of a network (e.g. mobile devices, autonomous
+vehicles or industrial machines). This means data is turned into insightful and
+intelligent actions at the source of the data, which can reduce unplanned
+downtime, improve asset performance, lower the cost of maintenance and increase
+production efficiency. So,
+where does that leave cloud computing? The shift to centralised cloud computing is
+causing the wave of edge computing to roll in
+faster. For the two to work most effectively, they need to work in
+tandem. Cloud computing remains important when it
+comes to actions requiring significant computing power, managing data volumes
+from different parts of the organisation, asset monitoring and machine
+learning. In other words, you would still use the cloud for processing that’s
+not time-sensitive or is not needed for one device to take immediate action,
+but rather helps the organisation to make business-wide decisions. On the other hand, edge computing comes
+into play when there is a need for immediate actions, there are connectivity
+constraints or there is a need for flexibility and customisation of processes
+and products. That is, the goal is to process the data from the device that
+needs it quickly, so that it can take the next most relevant action. There are
+many cases where reaction time is the key value of IoT, and consistently
+sending the data back to the centralised cloud prevents that value from being
+realised. Let’s
+look at this in real terms. In a fleet management scenario, data is
+gathered from multiple operational points, such as the wheels, brakes, battery
+and electrical system. Using edge computing, the fleet manager can monitor each
+of these points on each of the vehicles in the fleet and proactively service
+the vehicle, maximising uptime and reducing costs.  At the same time, data from all the vehicles
+is sent to the cloud where it is aggregated and analysed to monitor the health
+of these key components over time. The fleet manager can use these insights to
+track the average cost of a given truck model over time, which helps the
+organisation make informed decisions that impact the overall costs of its
+fleet.  We can similarly see how cloud and edge
+computing work together when it comes to autonomous cars.
+Intel estimates that autonomous cars, with hundreds of on-vehicle sensors, will
+generate 4TB
+of data for an hour and a half of driving. Most of this data does
+not need to be sent to the cloud – in fact, it would be unsafe, unnecessary and
+impractical to do so. This is an ideal example of how edge
+computing can assist in cases where real-time decision-making is key. In the
+case of a child running out in front of the car while it’s driving, it would be
+of little use to have it sending data to the cloud for analysis and
+decision-making. Rather, the data needs to be analysed at the edge so that
+immediate action (applying the brakes) can be taken. However, the cloud still has a role to play
+here too. The data showing that the car had to respond to such an immediate
+event may be valuable to the car manufacturer as it works on building future
+models. There’s
+no doubt that the proliferation of data is set to continue.  The Middle East and Africa is expected to
+see an exponential
+growth in data centre traffic, estimated to reach 451 exabytes (one
+quintillion bytes) per year by 2020. This is one reason for Microsoft’s
+recently announced data centres
+in South Africa. Cloud computing supports the digital transformation
+of businesses, while analytics spurs innovation. Edge computing adds another important layer
+to this. It moves the insights currently sitting in the cloud down to the device
+where all the action, ensuring faster action and better customer satisfaction
+in the long run. Combining cloud and edge computing ensures
+that businesses have both the big data and the more granular data they need to
+succeed in the short and long term.   The write is Country GM - Microsoft East & Southern Africa         
